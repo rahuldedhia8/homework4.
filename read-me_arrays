@@ -1,0 +1,8 @@
+How many times does the loop body run each frame, once the x and y arrays are full?
+The loop runs 10 times each frame. 
+
+What are two ways of increasing the spacing between rings?
+Define a length of or change the value of i= i+10 
+
+How can you make the ellipse trail longer?
+By changing the x.slice & y.slice values. 
